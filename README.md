@@ -1,5 +1,7 @@
 # AWS ML Specialization Certification Preparation
 
+![](images/ml_aws_prep_banner.png)
+
 Welcome to the AWS-ML-Specialization-Certification-Preparation repository! This space is dedicated to my journey towards mastering the materials and earning the AWS Machine Learning Specialization Certification. It's a live documentary of the learning process, challenges, and triumphs along the way.
 
 ## What You'll Find Here
