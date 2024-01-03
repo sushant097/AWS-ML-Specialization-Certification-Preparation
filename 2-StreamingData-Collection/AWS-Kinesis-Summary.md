@@ -168,7 +168,7 @@ Amazon Kinesis is a powerful tool for handling streaming data, essential for app
     - D) Advanced data analysis  
     **Correct Answer: C**
     
-    **Doubt Clear**
+    **Doubt Clear:**
     The primary benefit of using Kinesis Data Firehose for real-time data streaming is indeed "C) Easy setup and automatic scaling," not "B) Long-term data storage." Here's an explanation for each option:
 
         A) Complex data transformation: While Kinesis Data Firehose does allow for some data transformation by invoking AWS Lambda functions to process the data before it gets delivered to the destination, this is not its primary benefit. The transformations are relatively basic and not the core reason users choose Firehose.
