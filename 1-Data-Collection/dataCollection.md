@@ -45,3 +45,186 @@ The document discusses various aspects of data handling and AWS services relevan
 
 10. **Q: Why is it important to consider data format and schema in ML?**
     - **A:** The correct data format and schema are crucial for efficient processing, analysis, and training of machine learning models. They ensure the data is in a usable state to extract meaningful patterns and insights.
+
+
+# AWS ML Specialization Certification: Data Collection MCQs
+
+### Question 1
+What type of data storage is used for vast, unprocessed data?
+- A) Transactional databases
+- B) Data Warehouses
+- C) Data Lakes
+- D) None of the above
+
+**Answer: C) Data Lakes**
+
+### Question 2
+What AWS service is a fully managed clustered petabyte-scale data warehouse solution?
+- A) AWS S3
+- B) AWS RDS
+- C) Amazon Redshift
+- D) Amazon DynamoDB
+
+**Answer: C) Amazon Redshift**
+
+### Question 3
+Which of the following is NOT an AWS data migration tool?
+- A) AWS Data Pipeline
+- B) AWS DMS
+- C) AWS Glue
+- D) AWS Athena
+
+**Answer: D) AWS Athena**
+
+### Question 4
+Which AWS service is used for SQL queries on data stored in Amazon S3?
+- A) AWS Redshift
+- B) AWS Athena
+- C) AWS EMR
+- D) AWS RDS
+
+**Answer: B) AWS Athena**
+
+### Question 5
+Which type of data does Amazon DynamoDB primarily handle?
+- A) Structured data
+- B) Semi-structured data
+- C) Unstructured data
+- D) All of the above
+
+**Answer: B) Semi-structured data**
+
+### Question 6
+What does AWS Glue primarily provide?
+- A) Data migration
+- B) Data warehousing
+- C) ETL services
+- D) Database management
+
+**Answer: C) ETL services**
+
+### Question 7
+Which AWS tool helps in labeling data for supervised learning?
+- A) AWS Ground Truth
+- B) AWS SageMaker
+- C) AWS DeepLens
+- D) AWS QuickSight
+
+**Answer: A) AWS Ground Truth**
+
+### Question 8
+What type of database is AWS RDS?
+- A) NoSQL Database
+- B) Key-Value Database
+- C) Relational Database
+- D) Graph Database
+
+**Answer: C) Relational Database**
+
+### Question 9
+Which AWS service is a fully managed Hadoop framework?
+- A) Amazon Athena
+- B) AWS Glue
+- C) Amazon Redshift
+- D) Amazon EMR
+
+**Answer: D) Amazon EMR**
+
+### Question 10
+What is the primary purpose of Amazon S3 in the context of AWS ML?
+- A) To run machine learning models
+- B) To store and retrieve any amount of data
+- C) To manage relational databases
+- D) To migrate databases
+
+**Answer: B) To store and retrieve any amount of data**
+
+### Question 11
+Which AWS service allows querying data directly from files in S3 without having to load them into a database?
+- A) Amazon Redshift
+- B) AWS Data Pipeline
+- C) AWS Athena
+- D) Amazon RDS
+
+**Answer: C) AWS Athena**
+
+### Question 12
+What is a Data Lake primarily used for?
+- A) Structured transactional data
+- B) Combining data sources for BI tools
+- C) Storing vast amounts of raw data
+- D) Real-time data processing
+
+**Answer: C) Storing vast amounts of raw data**
+
+### Question 13
+Which AWS service provides serverless querying?
+- A) AWS EMR
+- B) Amazon RDS
+- C) Amazon Athena
+- D) Amazon DynamoDB
+
+**Answer: C) Amazon Athena**
+
+### Question 14
+What are the typical contents of a Data Warehouse?
+- A) Raw, unprocessed data
+- B) Structured, processed data from various sources
+- C) Only real-time data
+- D) Only images and videos
+
+**Answer: B) Structured, processed data from various sources**
+
+### Question 15
+What is the main advantage of using Amazon S3 for data storage in ML?
+- A) Low latency data retrieval
+- B) Ability to run complex queries
+- C) Scalability and durability of storage
+- D) Real-time data processing
+
+**Answer: C) Scalability and durability of storage**
+
+### Question 16
+Which AWS service is used for relational database management?
+- A) AWS Athena
+- B) Amazon DynamoDB
+- C) Amazon RDS
+- D) AWS Data Pipeline
+
+**Answer: C) Amazon RDS**
+
+### Question 17
+What is the function of AWS Data Pipeline?
+- A) To provide serverless SQL queries
+- B) To manage Hadoop clusters
+- C) To automate data movement and transformation
+- D) To provide data warehousing solutions
+
+**Answer: C) To automate data movement and transformation**
+
+### Question 18
+In the context of AWS ML, what is "labeling" primarily used for?
+- A) Structuring unstructured data
+- B) Assigning categories to data
+- C) Training supervised learning models
+- D) Reducing data size
+
+**Answer: C) Training supervised learning models**
+
+### Question 19
+What is a primary characteristic of unstructured data?
+- A) Strictly follows a schema
+- B) Easy to analyze and manage
+- C) Lacks defined structure or schema
+- D) Always consists of text files
+
+**Answer: C) Lacks defined structure or schema**
+
+### Question 20
+Which AWS service is designed for time series data?
+- A) AWS Glue
+- B) Amazon Redshift
+- C) Amazon Timestream
+- D) Amazon Athena
+
+**Answer: C) Amazon Timestream**
